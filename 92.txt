@@ -1,1 +1,21 @@
-Jorge Leon Rangel
+En tus palabras ¿Que es Internet?
+Internet es una red internacional en la que puedes buscar cualquier cosa y obtener resultados de manera instantanea
+
+Describe los medios fisicos y de propagación de ondas por los que se transmite la información en Internet.
+Las ondas se transmiten de manera electromagnetica desde el modem de tu casa.
+
+¿Como se organiza Internet?
+Internet es una red que se conecta con otras redes y se crea una telaraña en la que se organiza toda la informacion
+
+Describe el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia del celular.
+Llega la cancion y al llegar a los servidores de Spotify se decodifica.
+
+Describe los protocolos que existen en Internet.
+Los protocolos para la transmisión de datos en internet más importantes  TCP (Protocolo de Control de Transmisión) e IP (Protocolo de Internet). De manera conjunta (TCP/IP) podemos enlazar los dispositivos que acceden a la red, algunos otros protocolos de comunicación asociados a internet son POP, SMTP y HTTP.
+
+Las encriptaciones son "mensajes" que llegtan codificados.
+Las llaves públicas son redes que no tienen contraseñas.
+
+Nunca des contraseñas a cualquier persona desconocida, ya que internet ahora puede ser peligroso y se puede dar un mal uso de tu vida privada y nunca dejes tu sesion abierta, siempre cierra sesion
+
+La busqueda de Google funciona de esta manera: Buscas cualquier tipo de cosa y Google lo encuentra instantaneamente.
